@@ -12,8 +12,6 @@ HR Analytics Case Study SQL project. This project focuses on analyzing data from
 
 
 
-
-
  ## Technologies 🖥️
  
  - MySql
@@ -22,6 +20,11 @@ HR Analytics Case Study SQL project. This project focuses on analyzing data from
 
 ## Conclusion
 This analysis provides valuable insights for Pewlett-Hackard as they prepare for the upcoming "silver tsunami". By identifying retiring employees, determining the number of roles to fill, and identifying qualified, retirement-ready employees to mentor the next generation, the company can ensure a smooth transition and continue to thrive
+
+
+
+
+
 
 
 ## Pull Requests 🔀
